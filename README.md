@@ -1,10 +1,10 @@
-# ☁️ Introdução à Computação em Nuvem com Microsoft Azure
+# Introdução à Computação em Nuvem com Microsoft Azure
 
 Este repositório apresenta um resumo dos conceitos aprendidos no curso **"Fundamentos da Computação em Nuvem com Azure"**, oferecido pela Digital Innovation One (DIO), com apoio da Microsoft. O objetivo é consolidar o conhecimento sobre os fundamentos da nuvem, os tipos de modelos, a diferença entre CapEx e OpEx, e a estrutura global do Azure.
 
 ---
 
-## 📌 Conteúdos Abordados
+## Conteúdos Abordados
 
 ### 1. Computação em Nuvem: Domínio do Objetivo
 - Entendimento do que é computação em nuvem.
@@ -26,7 +26,7 @@ Este repositório apresenta um resumo dos conceitos aprendidos no curso **"Funda
 
 ---
 
-## ☁️ O que é o Microsoft Azure?
+## O que é o Microsoft Azure?
 
 O **Microsoft Azure** é uma plataforma de computação em nuvem da Microsoft que fornece uma ampla gama de serviços, como:
 
@@ -41,29 +41,29 @@ Ela é compatível com diversas linguagens de programação (como **Java**, **Py
 
 ---
 
-## 🌍 Localizações de Servidores do Azure (Regiões)
+## Localizações de Servidores do Azure (Regiões)
 
 O Azure está presente em mais de 60 regiões ao redor do mundo, organizadas em diferentes categorias:
 
-### 🔹 Regiões Públicas
+### Regiões Públicas
 - Abertas para qualquer cliente Azure.
 - Exemplo: **East US**, **West Europe**, **Brazil South**.
 
-### 🔒 Regiões de Governo (Government Cloud)
+### Regiões de Governo (Government Cloud)
 - Criadas para atender clientes governamentais com requisitos específicos de conformidade.
 - Exemplo: **US Gov Virginia**, **US Gov Arizona**.
 
-### 🏛️ Regiões Soberanas / Dedicadas
+### Regiões Soberanas / Dedicadas
 - Operadas por parceiros locais para atender legislações específicas de soberania de dados.
 - Exemplo: **China North**, **Germany Central**.
 
-### ⚙️ Zonas de Disponibilidade (Availability Zones)
+### Zonas de Disponibilidade (Availability Zones)
 - Datacenters fisicamente separados dentro de uma mesma região, garantindo maior resiliência e disponibilidade.
 - Exemplo: **East US 2 – Zone 1, 2, 3**.
 
 ---
 
-## ✅ Benefícios do Azure e da Computação em Nuvem
+## Benefícios do Azure e da Computação em Nuvem
 
 - Escalabilidade sob demanda
 - Redução de custos com infraestrutura física
@@ -74,7 +74,7 @@ O Azure está presente em mais de 60 regiões ao redor do mundo, organizadas em 
 
 ---
 
-## 📌 Conclusão
+## Conclusão
 
 A computação em nuvem representa a base da transformação digital moderna. O Microsoft Azure é uma das plataformas líderes globais, com infraestrutura robusta, presença internacional e serviços completos para apoiar desde desenvolvedores individuais até grandes corporações.
 
